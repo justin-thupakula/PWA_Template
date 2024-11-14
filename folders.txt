@@ -9,3 +9,4 @@ templates
 LICENSE
 main.py
 database_manager.py
+
